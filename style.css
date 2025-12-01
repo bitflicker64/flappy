@@ -1,12 +1,14 @@
 body {
-    margin: auto;
+    margin: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #ffffff;
 }
 #myCanvas{
+    background-image: url("image.png");
     width: 300px;
     height: 800px;
     text-align: center;
 }
+
