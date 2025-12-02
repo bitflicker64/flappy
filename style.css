@@ -3,7 +3,6 @@ body {
     background-color: #ffffff;
 }
 #board{
-    /* background-color: beige; */
-    background-image: url("./image.png");
+    background-color: beige;;
 }
 
